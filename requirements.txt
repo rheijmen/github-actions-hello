@@ -1,0 +1,2 @@
+# This script doesn't have any dependencies beyond the Python standard library.
+# However, best practice is to have a requirements.txt even if empty.
